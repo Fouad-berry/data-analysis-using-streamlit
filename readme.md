@@ -11,7 +11,7 @@ Pour exécuter cette application, vous devez avoir Python installé ainsi que le
 - numpy
 - matplotlib
 
-Vous pouvez installer ces dépendances en utilisant pip :
+Vous pouvez installer toutes ces dépendances en utilisant pip :
 
 ```bash
 pip install streamlit pandas numpy matplotlib
