@@ -3,6 +3,7 @@
 Cette application Streamlit permet de visualiser un ensemble de données aléatoires et de sélectionner le nombre de points à afficher à l'aide d'un curseur.
 
 ## Installation
+Bienvenue sur notre application crée pour l'ananlyse des données en utilisant stremlit en python
 
 Pour exécuter cette application, vous devez avoir Python installé ainsi que les bibliothèques suivantes :
 
